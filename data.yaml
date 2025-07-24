@@ -1,0 +1,13 @@
+names:
+- bottle
+- peels
+nc: 2
+roboflow:
+  license: CC BY 4.0
+  project: ai-dustbin
+  url: https://universe.roboflow.com/personal-z85ei/ai-dustbin/dataset/2
+  version: 2
+  workspace: personal-z85ei
+test: ../test/images
+train: ../train/images
+val: ../valid/images
