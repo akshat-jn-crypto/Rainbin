@@ -1,4 +1,4 @@
-# AI Dustbin
+# Rainbin
 
 This is my very first project on AI. I have used YOLO (You Only Look Once) model for object detection and classification. Not only that, for this project I have used sheet metal shop, spot welding, laser cutting of acrylic and 3D printing for the very first time.
 I am proud of this project and how it turned out.
